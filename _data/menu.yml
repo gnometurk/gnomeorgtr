@@ -20,30 +20,30 @@ entries:
     url: false
     entries:
       - title: biz kimiz?
-        url: /hakkinda/gnome-turkiye
+        url: /hakkinda/gnome-turkiye/
       - title: gnome nedir?
-        url: /hakkinda/gnome-nedir
+        url: /hakkinda/gnome-nedir/
       - title: neden gnome?
-        url: /hakkinda/neden-gnome
+        url: /hakkinda/neden-gnome/
       - title: gnome’a katkı verin
-        url: /hakkinda/gnome-katki-verin
+        url: /hakkinda/gnome-katki-verin/
       - title: çeviriler
         url: false
         entries:
           - title: nasıl katılırım?
-            url: /cevirilere-nasil-katilirim
+            url: /cevirilere-nasil-katilirim/
           - title: çeviri deposu iş akışı
-            url: /ceviri/ceviri-deposu-is-akisi
+            url: /ceviri/ceviri-deposu-is-akisi/
           - title: çeviri nasıl yapılır?
-            url: /ceviri/ceviri-nasil-yapilir
+            url: /ceviri/ceviri-nasil-yapilir/
           - title: çeviri programları
-            url: /ceviri/ceviri-programlari
+            url: /ceviri/ceviri-programlari/
           - title: yazım kuralları
-            url: /ceviri/yazim-kurallari
+            url: /ceviri/yazim-kurallari/
           - title: sözlük
-            url: /ceviri/sozluk
+            url: /ceviri/sozluk/
       - title: gnome’u indir
-        url: /indir
+        url: /indir/
         
   - title: tüm yazılar
     url: false

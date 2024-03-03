@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Çeviri Deposu İş Akışı
+permalink: /ceviri/ceviri-deposu-is-akisi/
 ---
 
 Bu belge, GNOME çevirilerine katılacaklar için iş akışının nasıl gerçekleşeceğini ve çevirilerle ilgili temel bilgileri sunmaktadır. Çevirilerin gönderimi ve denetimi için [Damned Lies](https://l10n.gnome.org/) istatistik aracı kullanılmaktadır. Damned Lies; çeviri durumlarını göstermekle birlikte çevirilerin saklanmasını, denetlenmesini ve iş akışını kolaylaştıran araçtır.

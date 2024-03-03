@@ -2,6 +2,7 @@
 layout: post
 title: 'Çeviri Nasıl Yapılır?'
 author: 'Barış Çiçek, Sabri Ünal'
+permalink: /ceviri/ceviri-nasil-yapilir/
 ---
 
 **Hazırlayan : Barış Çiçek, Güncelleyen: Sabri Ünal**

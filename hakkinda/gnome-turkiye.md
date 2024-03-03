@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Biz Kimiz?'
+permalink: /hakkinda/gnome-turkiye/
 ---
 
 GNOME Türkiye, bir grup [GNOME](https://www.gnome.org/) sever [GNU](https://www.gnu.org/)/[Linux](https://www.kernel.org/) kullanıcısının 2004 yılı Ekim ayında kurduğu organizasyondur. GNOME Türkiye’nin öncelikli ve ana amacı GNOME yazılım geliştiricilerini, çevirmenlerini, kullanıcılarını ve uzmanlarını bir araya getirerek sinerji oluşturmak, bu alanda bilgi birikimi yaratarak GNOME kullanımını artırmaktır.

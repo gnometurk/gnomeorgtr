@@ -2,6 +2,7 @@
 layout: post
 title: 'GNOME İndir'
 author: 'Sabri Ünal'
+permalink: /indir/
 ---
 
 GNOME, çoğu GNU/Linux dağıtımı aracılığıyla kurulabilir.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'GNOMEʼa Katkı Verin'
+permalink: /hakkinda/gnome-katki-verin/
 ---
 
 ![](/media/2023/04/get-involved-banner.jpg)

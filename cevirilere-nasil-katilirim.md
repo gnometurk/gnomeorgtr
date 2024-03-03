@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nasıl Katılırım?
+permalink: /cevirilere-nasil-katilirim/
 ---
 
 Çeviri yapmak GNOME ile ilgili birçok şeyi öğrenmenizi sağlayacak ve [Özgür Yazılım](https://www.gnu.org/philosophy/free-sw.tr.html) için katkıda bulunmanıza olanak sağlayacaktır.

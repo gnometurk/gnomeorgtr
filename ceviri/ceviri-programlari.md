@@ -2,6 +2,7 @@
 layout: post
 title: 'Çeviri Programları'
 author: 'Sabri Ünal'
+permalink: /ceviri/ceviri-programlari/
 ---
 
 Linux’un olabildiğince çok kişiye ulaşması için yerelleştirme önemlidir. Bu yüzden Linux için geliştirilmiş başka platformlarda çalışan ve başka özellikler, değişik kullanım seçenekleri sunan çeviri yazılımları vardır. Bu belgede bu yazılımlardan en gözdeleri anlatılmaktadır.

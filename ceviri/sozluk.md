@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sözlük
+permalink: /ceviri/sozluk/
 ---
 
 Bu belgede, GNOME’da kullanılan İngilizce sözcüklerin yaygın ya da yeğlediğimiz Türkçe karşılıkları bulunmaktadır. Yapılacak çevirilerde bu sözcüklerin kullanılması çeviri tümlüğü açısından önemlidir. Ayrıca “[Yazım Kuralları](/ceviri/yazim-kurallari)” belgemiz de incelenmelidir.

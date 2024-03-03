@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Yazım Kuralları'
+permalink: /ceviri/yazim-kurallari/
 ---
 
 Tümce kurarken bazı ekleri ve sözcükleri hatalı yazıyoruz. Bu durum, çevirilerin denetimini zorlaştırıyor, denetimi yapan kişinin zamanını alıyor. Eğer gözden kaçarsa hoş durmuyor.

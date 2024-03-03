@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'GNOME Nedir?'
+permalink: /hakkinda/gnome-nedir/
 ---
 
 ![](/media/2023/04/GUADEC2019-group.webp)

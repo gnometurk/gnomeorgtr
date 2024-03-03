@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Neden GNOME?'
+permalink: /hakkinda/neden-gnome/
 ---
 
 ![](/media/2023/04/wgo-splash-40.webp)
