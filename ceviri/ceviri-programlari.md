@@ -13,11 +13,11 @@ GNOME Çeviri Düzenleyici, (GTranslator adıyla da bilinmektedir) Fatih Demir v
 
 ![](/media/2023/03/gtranslator.png)
 
-###### Kurulumu
+### Kurulum
 
 GTranslator oldukça yaygındır ve bu yüzden çoğu dağıtım içinde gelmektedir. Dağıtımınızla gelen paket yöneticisinden veya yazılım mağazaları üstünden ‘gtranslator’ uygulamasını kurabilirsiniz. Flatpak sürümü de [Flathub](https://flathub.org/apps/details/org.gnome.Gtranslator) üstünden edinilebilir.
 
-###### Kullanım
+### Kullanım
 
 GTranslator’ı ilk açtığınızda yalın bir arabirim ile karşılaşırsınız. Üstte başka işlevleri olan düğmeler, altında “Özgün ileti” ve “Çevrilmiş ileti”leri içeren bir dizgeler tablosu ve onun altında da seçili “Özgün Dizge” ve “Çevrilmiş Metin” girdi kutuları bulunur. Sağ panelde üstte çeviri belleğindeki karşılıkları, altında ise notlar ve çevirinin yolu yer alır.
 
@@ -37,21 +37,21 @@ Bu ayarladan sonra çevirinize başlayabilirsiniz.
 
 Dizgeler arasında dolaşmak için klavye kısayollarını kullanabilirsiniz. Örneğin Alt+Sol/Alt+Sağ tuşlarıyla dizgeler arasında ileri/geri gidebilirsiniz. Diğer kısayollar için Ana Menü altındaki Klavye Kısayolları sayfasına bakabilirsiniz.
 
-- - - - - -
+---
 
 ## Poedit
 
-###### Genel bilgiler
+### Genel bilgiler
 
 Poedit, Vaclav Slavic tarafından geliştirilen çapraz platform bir çeviri aracıdır. Windows, Linux ve diğer platformlarda grafik arabirimi değişmeden kullanılabilmektedir. Bu özellikle Windows üzerinde çeviri yapanlar için büyük kolaylıktır. Web sitesi [poedit.net](https://poedit.net) olup uygulamanın kaynak kodları <https://github.com/vslavik/poedit> adresinde bulunmaktadır. Türlü çeviri servisleriyle tümleşik çalışan [Pro sürümü](https://poedit.net/pro) de bulunmaktadır.
 
 ![](/media/2023/04/poedit-gnome.png)
 
-###### Kurulum
+### Kurulum
 
 Poedit pek çok dağıtımın deposunda bulunmaktadır. Windows ve MacOS sürümleri de [indirme sayfasında](https://poedit.net/download) listelenmiştir. Linux için resmi [snap paketini](https://snapcraft.io/poedit), ya da [Flathub üstünden flatpak paketini](https://flathub.org/apps/details/net.poedit.Poedit) indirip kurabilirsiniz.
 
-###### Kullanım
+### Kullanım
 
 Poedit, kullanımı kolay çeviri programlarından birisidir. İlk açılışta sizi hoş geldiniz ekranı karşılar. Hoş geldiniz ekranından “Yeni oluştur…” diyerek varsa pot dosyasını kullanarak yeni çeviri başlatabilirsiniz. İkinci yöntem ise “Dosya &gt; Aç…” yoluyla çevirisini yapmak istediğiniz po dosyasını açmaktır. Ayrıca po dosyasının üstüne sağ tıklayıp Birlikte Aç ekranından Poedit ile açmayı da seçebilirsiniz.
 
