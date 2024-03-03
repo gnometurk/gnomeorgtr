@@ -145,4 +145,4 @@ GNOME Projesi, kar amacı gütmeyen GNOME Vakfı tarafından desteklenen uluslar
 
 **Not: [GNOME Sürüm duyurusundan](https://release.gnome.org/44/) çevirilmiştir.**
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="405" loading="lazy" src="https://www.youtube.com/embed/N7SGe1MiqNA?feature=oembed" title="Introducing GNOME 44" width="720"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="405" loading="lazy" src="https://www.youtube.com/embed/N7SGe1MiqNA?feature=oembed" title="Introducing GNOME 44" width="100%"></iframe>
