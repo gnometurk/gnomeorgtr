@@ -25,7 +25,7 @@ GTranslator ilk açılışında PO başlığı için gerekli bilgileri sizden is
 
 Profil iletişim kutusunda **Çevirmen Bilgisi** alanına isterseniz gerçek adınızı ya da takma adınızı ve iletişim için e-posta adresinizi ekleyiniz.
 
-**Takım e-postası** alanına, GNOME çeviri ekibimizce kullanılan **takim@gnome.org.tr** e-posta adresini giriniz.
+**Takım e-postası** alanına **takim@gnome.org.tr** e-posta adresini giriniz. (Bu adrese gönderilecek e-postalar göz ardı edilecektir. Sistem kendiliğinden yanıt olarak anlık iletişim kanalı kullanımını öneren bir e-posta gönderecektir.)
 
 Dil seçeneklerinde GNOME için dili ‘Turkish’ seçmeniz yeterlidir. Dil ayarlarını, aşağıdaki biçimde kendisi oluşturacaktır:  
 – Dil kodu: ‘tr’  

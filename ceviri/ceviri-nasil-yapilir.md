@@ -119,7 +119,7 @@ Eğer daha önceden bir çeviri varsa, var olan çeviriyi en son POT dosyası il
 
 GNOME Çeviri Takımı, çeviri işlemlerini kolaylaştırmak için GNOME Çeviri Platformu üzerinde günlük olarak POT dosyalarını oluşturmakta ve çeviri dosyalarını güncel POT dosyasına göre güncellemektedir. Böylece kaynak kodlarını indirmeden yalnızca ilgili PO dosyasını GNOME Çeviri Platformundan indirebilirsiniz. GNOME Çeviri Platformuna <https://l10n.gnome.org/languages/tr/> adresinden ulaşabilirsiniz.
 
-Buradan yayınlanmış GNOME sürümlerine ait çevirilere ulaşabileceğiniz gibi güncel çevirileri de bulabilirsiniz. GNOME masaüstü ortamının son sürümü için çeviri yapmaya başlamadan önce almak istediğiniz paket ile ilgili isteğinizi ve ilk kez GNOME çevirisi yapıyorsanız bunu da belirterek <takim@gnome.org.tr> adresine bir e-posta atmanız ya da anlık iletişim kanallarımıza yazmanız hem sizi tanımamız hem de çevirilerin daha düzenli ilerlemesi için oldukça önemlidir.
+Buradan yayınlanmış GNOME sürümlerine ait çevirilere ulaşabileceğiniz gibi güncel çevirileri de bulabilirsiniz. GNOME masaüstü ortamının son sürümü için çeviri yapmaya başlamadan önce almak istediğiniz paket ile ilgili isteğinizi ve ilk kez GNOME çevirisi yapıyorsanız bunu da belirterek anlık iletişim kanallarımıza yazmanız hem sizi tanımamız hem de çevirilerin daha düzenli ilerlemesi için oldukça önemlidir.
 
 ## Çeviri için hangi programı kullanmalıyım?
 
