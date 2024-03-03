@@ -10,7 +10,7 @@ Aşağıda belirli eklere ilişkin temel kuralları bulacaksınız. Çeviri yapa
 
 Gerekiyorsa emin olamadığınız konularda mutlaka GNOME Türkiye Telegram kanalına danışın.
 
-\* \* \* \*
+---
 
 **1.** Yer belirtmeyen, bağlaç olan “de”, “da” ekleri ayrı yazılır. Yer, konum ve tarih belirtirse bitişik yazılır.
 

@@ -7,6 +7,8 @@ permalink: /ceviri/ceviri-programlari/
 
 Linux’un olabildiğince çok kişiye ulaşması için yerelleştirme önemlidir. Bu yüzden Linux için geliştirilmiş başka platformlarda çalışan ve başka özellikler, değişik kullanım seçenekleri sunan çeviri yazılımları vardır. Bu belgede bu yazılımlardan en gözdeleri anlatılmaktadır.
 
+---
+
 ## GNOME Çeviri Düzenleyici
 
 GNOME Çeviri Düzenleyici, (GTranslator adıyla da bilinmektedir) Fatih Demir ve Ross Golder tarafından geliştirilmesine başlanmış, halen GNOME topluluğunca geliştirilen bir GNU gettext çeviri uygulamasıdır. GNOME çevirilerine yardımcı olmak amacıyla geliştirilmiştir. Po uzantılı dosyaların çevirisinde kullanılmaktadır. Çeviri belleği oluşturma desteği de sunan bu uygulamanın kaynak kodları <https://gitlab.gnome.org/GNOME/gtranslator> adresinde bulunmaktadır.

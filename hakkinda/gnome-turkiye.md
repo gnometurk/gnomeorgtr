@@ -14,4 +14,4 @@ GNOME Türkiye, bu hedefine ulaşmak için,
 * Yerelleştirme yaparak GNOME’un her sürümünün Türkçe desteğinin tam olmasını sağlar.
 * Anlık iletişim kanalları ve web yoluyla bir tartışma ve bilgi alışveriş ortamı oluşturur.
 
-GNOME Türkiye, bir dernek ya da vakıf statüsünde olmadığı için katılım için anlık iletişim kanalları tek gerek koşuldur. Üyelik için “[Nasıl katılırım?](/cevirilere-nasil-katilirim)” bağlantısına girmeniz ve anlık iletişim kanallarına katılmanız yeterlidir.
+GNOME Türkiye, bir dernek ya da vakıf statüsünde olmadığı için katılım için anlık iletişim kanalları tek gerek koşuldur. Üyelik için “[Nasıl katılırım?](/cevirilere-nasil-katilirim/)” bağlantısına girmeniz ve anlık iletişim kanallarına katılmanız yeterlidir.

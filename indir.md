@@ -16,6 +16,8 @@ GNOME, çoğu GNU/Linux dağıtımı aracılığıyla kurulabilir.
 | ![](/media/2023/04/DistroLogo-Vanilla.png) | Vanilla OS, günlük işleriniz için güvenilir ve üretken işletim sistemi olarak tasarlanmıştır. GNOME’un en son sürümü her zaman Vanilla OS ile birlikte gelir ve işletim sisteminin yaşam döngüsü boyunca zamanında güncellemeler alır.  [Vanilla OS İndir](https://github.com/Vanilla-OS/os/releases) |
 | ![](/media/2023/04/DistroLogo-Pardus.png) | Türkiye’den çıkan ve uzun yıllardır süren yerli Linux dağıtımı Pardus, Debian kararlı sürümleri üstüne inşa edilmiştir. Ana masaüstü ortamı olarak XFCE kullanmakla birlikte GNOME masaüstü ortamını sunan sürümü de bulunmaktadır. Yardım forumu üstünden Türkçe topluluk desteği de sunmaktadır. [Pardus İndir](https://www.pardus.org.tr/surumler/) |
 
+---
+
 ### Kodları indir
 
 GNOME, Özgür ve Açık Kaynak Yazılım ([FOSS](http://www.gnu.org/philosophy/free-sw.html)) projelerinden oluşan derlemedir. GNOME ve bağlı projelerimizin kaynak kod ve varlıkları; ücretsiz olarak görüntülenebilecekleri, indirilebilecekleri, değiştirilebilecekleri ve yeniden dağıtılabilecekleri [GitLab](https://gitlab.gnome.org/explore/groups) sayfamızda bulunur.

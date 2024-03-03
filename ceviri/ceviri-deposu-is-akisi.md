@@ -8,7 +8,7 @@ Bu belge, GNOME çevirilerine katılacaklar için iş akışının nasıl gerçe
 
 ---
 
-**GNOME çeviri sistemi**
+### GNOME çeviri sistemi
 
 GNOME Projesi, uygulamaların yerelleştirmesine geniş olanaklar sağlayan Gettext sistemini kullanmaktadır. Bu sistem aracılığıyla uygulamalar, sistemin kendi dil ayarına göre uygun çevirilerle görüntülenir. Gettext sistemi, uygulamaların kaynak kodlarında çevrilmesi gereken dizgeleri ayrı bir dosyada (PO dosyası) saklar ve böylece uygulamaların kurulumu sırasında başka dillerin uygulamaca desteklenmesini sağlar. Bu sistem aynı zamanda belgelendirme çevirilerinde de kullanılmaktadır.
 
@@ -16,7 +16,7 @@ GNOME çevirileri, uygulamaların şablon PO (POT) dosyaları üzerinden yapılm
 
 ---
 
-**GNOME Türkçe çevirileri iş akışı**
+### GNOME Türkçe çevirileri iş akışı
 
 Çeviriler dağıtımların ve uygulamaların paketlerine konulabilmesi için GNOME Projesi sürüm denetim sistemine eklenmektedir. Bu sistem, erişim denetimi gerektirdiği için bu işlem çeviri koordinatörleri ve depo yetkililerince gerçekleştirilmektedir. GNOME Türkçe çevirilerinin koordinatörü ve depo yetkilileri [Damned Lies Türkçe Takımı](https://l10n.gnome.org/teams/tr) sayfasında görülebilir.
 
@@ -26,7 +26,7 @@ Bu sistem; çevrilen paketlerin belirlenmesini, çeviri yapanların yaptığı �
 
 ---
 
-**Çevirmenlerin sisteme kaydolması**
+### Çevirmenlerin sisteme kaydolması
 
 Çevirmenler, çalışmalara katılmak için öncelikle Damned Lies sitesine ve [anlık iletişim kanallarına](/anlik-iletisim-kanallari) kayıt olmalıdır. Kayıt olmadan çeviri gönderemezler.
 
@@ -42,7 +42,7 @@ Bu sayfada öncelikle ‘Adı’ ve ‘Soyadı’ bölümlerini doldurun, diğer
 
 ---
 
-**Çevirilerin seçilmesi ve gönderilmesi**
+### Çevirilerin seçilmesi ve gönderilmesi
 
 Kayıt işlemi bittikten sonra çevireceğiniz paketleri seçip çeviriye başlayabilirsiniz. Paket seçimi için anlık iletişim kanallarına başvurmanız önemlidir. Çünkü bazı paketler uzun dönemdir belirli çevirmenlerce çevrilmektedir ve niteliği artıran bu süreklilik nedeniyle kimi paketlerin çevirisi gene aynı çevirmenlerce üstlenilmek istenebilir. Bunu, anlık iletişim kanallarına alacağınız paketi belirttiğinizde öğrenebilirsiz.
 
@@ -64,7 +64,7 @@ Yaptığınız paket seçimlerini toplu olarak anlık iletişim kanallarına bel
 
 ---
 
-**Çeviri dosyalarının izlenmesi**
+### Çeviri dosyalarının izlenmesi
 
 Çevirisini gönderdiğiniz ve üzerinizde bulunan paketleri profil sayfanızda görebilirsiniz. Bu sayfada gönderdiğiniz çevirilerin henüz denetlenip denetlenmediğini de izleyebilirsiniz.
 

@@ -174,7 +174,7 @@ msgstr “%d klasör ve %d dosya silindi. (%s)”
 
 Bu örnekte **%d** ve **%s** kodları özgün metinde kullanıldığı sırada kullanılmıştır.
 
-\* \* \*
+---
 
 Bir başka örnek verelim:
 
@@ -185,7 +185,7 @@ mstid “%3$s klasöründen %2$d dosya ve %1$d klasör silindi”
 
 Bu örnekte kodların sıraları değiştirilmiştir. Sıra değiştirilirken önce **%** karakteri sonra kullanılacak kodun metin içindeki sırası daha sonra **$** imi ve kodun türü yazılır. **%3$s** kodu, özgün metinde 3. sıradaki kod olan %s’yi belirtir.
 
-\* \* \*
+---
 
 Tarih ile ilgili bir örnek verelim:
 
@@ -196,7 +196,7 @@ msgstr “%d %b %l:%M %p tarihinde tamamlandı”
 
 Buradaki örnek **c-format** biçiminde tarih ve zaman belirtmektedir. Burada Türkçedeki tarih ve zaman yazımına dikkat edilerek çeviri yapılmalıdır.
 
-\* \* \*
+---
 
 **no-c-format** imi bulunan PO dosyası girdileri kodları derlemez o yüzden **%** karakterleri metnin bir parçası olarak görülmelidir. Eğer **no-c-format** imi bulunmuyorsa yüzde imini belirtmek için iki kez yazmak gerekir.
 
