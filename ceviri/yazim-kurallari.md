@@ -8,7 +8,7 @@ Tümce kurarken bazı ekleri ve sözcükleri hatalı yazıyoruz. Bu durum, çevi
 
 Aşağıda belirli eklere ilişkin temel kuralları bulacaksınız. Çeviri yaparken bu kuralları göz önünde bulunduralım.
 
-Gerekiyorsa emin olamadığınız konularda mutlaka GNOME Türkiye Telegram kanalına danışın.
+Gerekiyorsa emin olamadığınız konularda mutlaka anlık iletişim kanallarına danışın.
 
 ---
 
