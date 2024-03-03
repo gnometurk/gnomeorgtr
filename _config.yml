@@ -1,0 +1,26 @@
+title: GNOME Türkiye
+author: GNOME Türkiye Takımı
+email: takim@gnome.org.tr
+url: https://www.gnome.org.tr
+baseurl: "/gnomeorgtr" # dev
+description: >
+  GNOME masaüstü ortamı ve geliştirme platformu Türkiye resmi web sitesi.
+
+permalink: /:slug.html
+
+favicon: "logo.png"
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

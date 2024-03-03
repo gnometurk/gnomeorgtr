@@ -1,0 +1,59 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: bilgi
+    url: false
+    entries:
+      - title: GNOME masaüstü ortamı ve geliştirme platformu Türkiye resmi web sitesi.
+        url: false
+      - title: damned lies
+        url: https://l10n.gnome.org/teams/tr
+      - title: x
+        url: https://x.com/gnometurk
+      - title: mastodon
+        url: https://floss.social/@gnometurk
+      - title: anlık iletişim kanalları
+        url: anlik-iletisim-kanallari.html
+        
+  - title: menü
+    url: false
+    entries:
+      - title: biz kimiz?
+        url: /hakkinda/gnome-turkiye
+      - title: gnome nedir?
+        url: /hakkinda/gnome-nedir
+      - title: neden gnome?
+        url: /hakkinda/neden-gnome
+      - title: gnome’a katkı verin
+        url: /hakkinda/gnome-katki-verin
+      - title: çeviriler
+        url: false
+        entries:
+          - title: nasıl katılırım?
+            url: /cevirilere-nasil-katilirim
+          - title: çeviri deposu iş akışı
+            url: /ceviri/ceviri-deposu-is-akisi
+          - title: çeviri nasıl yapılır?
+            url: /ceviri/ceviri-nasil-yapilir
+          - title: çeviri programları
+            url: /ceviri/ceviri-programlari
+          - title: yazım kuralları
+            url: /ceviri/yazim-kurallari
+          - title: sözlük
+            url: /ceviri/sozluk
+      - title: gnome’u indir
+        url: /indir
+        
+  - title: tüm yazılar
+    url: false
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: Arşivi gör...
+      show_more_url: arsiv.html
+
+  - title: rss
+    url: feed.xml
+  - title: web site içerikleri başkası belirtilmediyse “CC BY-NC-ND 4.0 Deed” ile lisanslıdır.
+    url: false
