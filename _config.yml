@@ -14,7 +14,7 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto"
-  back_home_text: ".."
+  back_home_text: "GNOME Türkiye"
   date_format: "%Y-%m-%d"
   show_description: false
 
