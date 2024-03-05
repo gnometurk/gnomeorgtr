@@ -8,6 +8,7 @@ permalink: /indir/
 GNOME, çoğu GNU/Linux dağıtımı aracılığıyla kurulabilir.
 
 |Dağıtım|Açıklama|
+|---|---|
 | ![](/media/2023/04/DistroLogo-Fedora.png) | [Fedora Workstation](https://fedoraproject.org/workstation/), kutudan çıkar çıkmaz güncel GNOME deneyimi sağlayan, dizüstü ve masaüstü bilgisayarlar için geliştirilmiş ve kullanımı kolay işletim sistemidir. En son kararlı sürümü, genel olarak GNOME ana sürümleri yayınlandıktan 2 ay kadar sonra kurmak ya da canlı olarak denemek için hazırdır. [Fedora İndir](https://fedoraproject.org/workstation/download/) |
 | ![](/media/2023/04/DistroLogo-Ubuntu.png) | openSUSE sistem yöneticileri, geliştiriciler ve aynı biçimde masaüstü kullanıcıları için tasarlanmış işletim sistemidir. GNOME, yuvarlanan openSUSE sürümü [Tumbleweed](https://www.opensuse.org/#Tumbleweed) ve en son kararlı sürümü sağlayan openSUSE [Leap](https://www.opensuse.org/#Leap) ile kurulurken seçilebilir. [openSUSE İndir](https://get.opensuse.org/tumbleweed/) |
 | ![](/media/2023/04/DistroLogo-openSUSE.png) | Ubuntu, dünya çapında milyonlarca kişisel bilgisayar ve dizüstü bilgisayara güç veren masaüstü işletim sistemidir. 6 ayda bir 9 ay desteklenen sürümü, güncel GNOME sürümünü izleyecek biçimde yayınlanır. 2 yılda bir ise uzun süreli destek ([LTS](https://ubuntu.com/blog/what-is-an-ubuntu-lts-release)) sürümü yayınlanır. Güncel LTS sürümü olan Ubuntu 22.04 LTS GNOME 42’yi sağlar. [Ubuntu İndir](https://ubuntu.com/download/desktop) |
