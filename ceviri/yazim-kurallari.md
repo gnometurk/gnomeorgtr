@@ -4,7 +4,7 @@ title: 'Yazım Kuralları'
 permalink: /ceviri/yazim-kurallari/
 ---
 
-Tümce kurarken kimi ekleri ve sözcükleri yanlış yazıyoruz. Bu durum, çevirilerin denetimini zorlaştırıyor ve denetimi yapan kişinin zamanını alıyor. Eğer gözden kaçarsa iyi durmuyor.
+Tümce kurarken kimi ekleri ve sözcükleri yanlış yazıyoruz. Bu durum, çevirilerin denetimini zorlaştırıyor ve denetçinin zamanını alıyor. Eğer gözden kaçarsa iyi durmuyor.
 
 Aşağıda belirli eklere ilişkin temel kuralları bulacaksınız. Çeviri yaparken bu kuralları göz önünde bulunduralım.
 
