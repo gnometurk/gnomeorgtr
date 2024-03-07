@@ -166,9 +166,11 @@ Function: İşlev
 
 **G**
 
+Gateway: Geçit
+
 Guest: Konuk
 
-Group: Grup/Grupla
+Group: Grup/Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
 
 ---
 
@@ -281,6 +283,8 @@ Plug-in: Eklenti
 Policy: İlke
 
 Port: Bağlantı noktası
+
+Portal: Kapı
 
 Possible: Olası
 
