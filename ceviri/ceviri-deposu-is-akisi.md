@@ -69,3 +69,7 @@ Yaptığınız paket seçimlerini toplu olarak anlık iletişim kanallarına bel
 Çevirisini gönderdiğiniz ve üzerinizde bulunan paketleri profil sayfanızda görebilirsiniz. Bu sayfada gönderdiğiniz çevirilerin henüz denetlenip denetlenmediğini de izleyebilirsiniz.
 
 Denetçi onayı ve gerekli düzeltmeler sonrasında depo yetkilisi ya da koordinatör çeviriyi sürüm denetim sistemine gönderir. Böylece ilgili paket profilinizden kaldırılır. Çevirilerle ilgili gelişmeler çevirmene sistemce kendiliğinden e-posta olarak gönderilmektedir.
+
+---
+
+*Belgeyi güncelleyen:* Emin Tufan Çetin
