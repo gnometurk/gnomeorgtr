@@ -70,3 +70,7 @@ Poedit görünüm menüsünde çevirileri “Dosya Düzenine Göre Sırala”, K
 Örneğin yeni çeviri projesinde “Uyarıları Göster” + “Kaynağa Göre Sırala” + “Bağlama Göre Grupla” seçeneklerini kullanabilirsiniz. Üstünde yeni değişiklikler olan çoğu bitmiş çeviride ise “Uyarıları Göster” + “Kaynağa Göre Sırala” + “Bağlama Göre Grupla” + “Çevrilmemiş Dizgeler En Üstte” seçeneklerini birleştirebilirsiniz.
 
 GNOME projelerinde, gerekmemekle birlikte, Poedit ile kaynak koddan çevrilecek değerler de derlenebilir.
+
+---
+
+*Yazar:* Sabri Ünal
