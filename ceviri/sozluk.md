@@ -428,6 +428,10 @@ Widget: Parçacık
 
 **Bekleyen Öneriler**
 
+Allocate: Ayırmak, ayırtmak
+
+Challenge: Sınama, karşı çıkma, sorgulama
+
 Heap: İstif (Yığın ya da öbek değil, bu ikisini zaten kullanıyoruz)
 
 [] = Square Brackets: Köşeli Ayraçlar ya da Köşeli Parantez
