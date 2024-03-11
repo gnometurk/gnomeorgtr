@@ -5,8 +5,6 @@ author: 'Barış Çiçek, Sabri Ünal'
 permalink: /ceviri/ceviri-nasil-yapilir/
 ---
 
-**Hazırlayan : Barış Çiçek, Güncelleyen: Sabri Ünal**
-
 ## Giriş
 
 Bu belge GNOME Projesi yerelleştirme çalışmalarına katılabilmeniz için yardımcı bilgileri içerir. Bu belgeyle birlikte yerelleştirme çalışmaları için temel bilgileri öğrenebilir ve hatasız çeviriler yapabilmek için gerekli koşulları topluca bulabilirsiniz.
@@ -249,3 +247,8 @@ Bu komut aynı zamanda GNOME Çeviri Platformuna da gömülmüştür.
 ## GNOME-Türk E-posta Grubu’na ne oldu?
 
 Uzun yıllar kullanılan GNOME Türk e-posta grubu, GNOME tarafından, tüm e-posta gruplarıyla birlikte, 2023 yılıyla birlikte emekli edilmiştir ve yalnızca arşiv olarak tutulmaktadır. Arşivlenmiş iletilere <https://mail.gnome.org/archives/gnome-turk/> adresinden erişebilirsiniz.
+
+---
+
+*Yazar:* Barış Çiçek
+*Güncelleyen:* Sabri Ünal, Emin Tufan Çetin
