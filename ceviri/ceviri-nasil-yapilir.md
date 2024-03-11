@@ -251,4 +251,5 @@ Uzun yıllar kullanılan GNOME Türk e-posta grubu, GNOME tarafından, tüm e-po
 ---
 
 *Yazar:* Barış Çiçek
-*Güncelleyen:* Sabri Ünal, Emin Tufan Çetin
+
+*Güncelleyenler:* Sabri Ünal, Emin Tufan Çetin
