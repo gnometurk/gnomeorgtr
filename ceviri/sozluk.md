@@ -44,7 +44,7 @@ Authorize: Yetkilendir
 
 **B**
 
-Background: Arka plan / Artalan / Art alan (Gimp ve resim uygulamalarında)
+Background: Arka plan (Artalan yeğlemiyoruz)
 
 Battery: Pil
 
@@ -158,7 +158,7 @@ Flip: Çevir
 
 Folder: Klasör
 
-Fore Ground: Ön plan / Önalan (Gimp ve resim uygulamalarında)
+Fore Ground: Ön plan (Önalan yeğlemiyoruz)
 
 Function: İşlev
 
