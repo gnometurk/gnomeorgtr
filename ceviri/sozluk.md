@@ -444,4 +444,6 @@ Heap: İstif (Yığın ya da öbek değil, bu ikisini zaten kullanıyoruz)
 
 ---
 
-*Kaynakça: [TSE Sözlük](https://web.archive.org/web/20180823201942/https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf)*
+#### Kaynakça: 
+- [TSE Sözlük](https://web.archive.org/web/20180823201942/https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf)
+- [TBD Sözlük](https://eski.tbd.org.tr/index.php?sayfa=sozluk&mi1&tipi=entr&harf=A)
