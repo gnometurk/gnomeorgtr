@@ -276,6 +276,8 @@ Output: Çıktı
 
 Password: Parola
 
+Pause: Duraklat
+
 Performance: Başarım
 
 Prefer: Yeğle
@@ -355,6 +357,8 @@ Set: Takım
 Socket: Yuva
 
 Stack: Yığın
+
+Stop: Durdur
 
 Storage: Saklama, Depolama
 
