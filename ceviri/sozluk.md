@@ -130,7 +130,7 @@ Dump: Döküm
 
 **E**
 
-Encryption: Sifreleme
+Encryption: Şifreleme
 
 Encrypt: Şifrele
 
@@ -144,7 +144,7 @@ Expunge: Temizle
 
 Exist: Var
 
-Existing: Var olan
+Existing: Var olan (ayrık yazılmalı)
 
 ---
 
@@ -158,7 +158,7 @@ Flip: Çevir
 
 Folder: Klasör
 
-Fore Ground: Ön plan (Önalan yeğlemiyoruz)
+Foreground: Ön plan (Önalan yeğlemiyoruz)
 
 Function: İşlev
 
@@ -448,4 +448,4 @@ Heap: İstif (Yığın ya da öbek değil, bu ikisini zaten kullanıyoruz)
 - [TSE Sözlük](https://web.archive.org/web/20180823201942/https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf)
 - [TBD Sözlük](https://eski.tbd.org.tr/index.php?sayfa=sozluk&mi1&tipi=entr&harf=A)
 
-Öncelikli olarak bizim sözlüğümüzden, sonrasında bu sözlüklerden yararlanılabilirsiniz.
+Öncelikli olarak bizim sözlüğümüzden, sonrasında bu sözlüklerden yararlanabilirsiniz.
