@@ -46,6 +46,8 @@ Authorize: Yetkilendir
 
 Background: Arka plan (Artalan yeğlemiyoruz)
 
+Backend: Arka uç
+
 Battery: Pil
 
 Blank: Karart (Ekran için)
@@ -159,6 +161,8 @@ Flip: Çevir
 Folder: Klasör
 
 Foreground: Ön plan (Önalan yeğlemiyoruz)
+
+Frontend: Ön uç
 
 Function: İşlev
 
