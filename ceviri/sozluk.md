@@ -372,15 +372,17 @@ Suspend: Askıya al
 
 **T**
 
-Transfer: Aktarım
-
 Threat: Tehdit
+
+Token: Jeton
 
 Tool set: Takım
 
 Tools: Araçlar
 
-Token: Jeton
+Transfer: Aktarım
+
+Transparent: Saydam
 
 ---
 
