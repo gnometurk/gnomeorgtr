@@ -224,6 +224,8 @@ Keep: Sakla
 
 **L**
 
+Local: Yerel
+
 Login: Gir, Giriş, Oturum aç
 
 Log in: Gir, Giriş, Oturum aç
