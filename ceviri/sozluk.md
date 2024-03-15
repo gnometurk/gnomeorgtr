@@ -378,6 +378,8 @@ Suspend: Askıya al
 
 Threat: Tehdit
 
+Time zone: Saat dilimi
+
 Token: Jeton
 
 Tool set: Takım
