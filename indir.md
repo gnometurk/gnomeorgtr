@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'GNOME İndir'
+title: 'GNOME’u İndir'
 author: 'Sabri Ünal'
 permalink: /indir/
 ---
 
-GNOME, çoğu GNU/Linux dağıtımı aracılığıyla kurulabilir.
+GNOME, çoğu GNU/Linux dağıtımı aracılığıyla edinilebilir.
 
 |Dağıtım|Açıklama|
 |---|---|
@@ -15,7 +15,7 @@ GNOME, çoğu GNU/Linux dağıtımı aracılığıyla kurulabilir.
 | ![](/media/2023/04/DistroLogo-Arch.png) | Arch Linux, her zaman güncel GNOME deneyimine erişim sağlayan ve sürekli olarak güncellenen, bir kez kurduğunuzda ara sürümler arası güncelleme gerektirmeyen, yuvarlanan işletim sistemidir. GNOME doğrudan Arch Linux depolarından kurulabilir ve bunun nasıl yapılacağına ilişkin yönergeleri [şurada](https://wiki.archlinux.org/title/GNOME) bulabilirsiniz. [Arch Linux İndir](https://archlinux.org/download/) |
 | ![](/media/2023/04/DistroLogo-Debian.png) | Debian, en eski ve en köklü GNU/Linux işletim sistemlerinden biridir ve kullanıcıları için kararlı ve güvenilir GNOME deneyimi sağlamayı hep sürdürmüştür. Geliştirme sürümleri güncele yakın GNOME deneyimi sunarken, kararlı sürümleri güncel olmayan GNOME deneyimi sunar. [Debian İndir](https://www.debian.org/download) |
 | ![](/media/2023/04/DistroLogo-Vanilla.png) | Vanilla OS, günlük işleriniz için güvenilir ve üretken işletim sistemi olarak tasarlanmıştır. GNOME’un en son sürümü her zaman Vanilla OS ile birlikte gelir ve işletim sisteminin yaşam döngüsü boyunca zamanında güncellemeler alır.  [Vanilla OS İndir](https://vanillaos.org/download) |
-| ![](/media/2023/04/DistroLogo-Pardus.png) | Türkiye’den çıkan ve uzun yıllardır süren yerli Linux dağıtımı Pardus, Debian kararlı sürümleri üstüne inşa edilmiştir. Ana masaüstü ortamı olarak XFCE kullanmakla birlikte GNOME masaüstü ortamını sunan sürümü de bulunmaktadır. Yardım forumu üstünden Türkçe topluluk desteği de sunmaktadır. [Pardus İndir](https://www.pardus.org.tr/surumler/) |
+| ![](/media/2023/04/DistroLogo-Pardus.png) | Türkiye’den çıkan ve uzun yıllardır süren yerli GNU/Linux dağıtımı Pardus, Debian kararlı sürümleri üstüne inşa edilmiştir. GNOME masaüstünü kullanmaktadır. Yardım forumu üstünden Türkçe topluluk desteği de sunmaktadır. [Pardus İndir](https://www.pardus.org.tr/surumler/) |
 | ![](/media/2023/04/DistroLogo-PureOS.png) | PureOS, GNOME masaüstü ortamını kullanan gizlilik ve güvenlik odaklı dağıtımdır. Librem dizüstü bilgisayarları ve Librem 5 akıllı telefonu gibi ürünlerin üreticisi [Purism](https://puri.sm) tarafından geliştirilmektedir. PureOS, Debian tabanlıdır ve [Free Software Foundation](https://www.fsf.org/)’ın [Özgür GNU/Linux dağıtımları](https://www.gnu.org/distros/free-distros.tr.html) listesinde yer alır. [PureOS İndir](https://pureos.net/download/) |
 
 ---

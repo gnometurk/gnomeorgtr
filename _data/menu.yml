@@ -9,12 +9,12 @@ entries:
         url: false
       - title: damned lies
         url: https://l10n.gnome.org/teams/tr
-      - title: x
-        url: https://x.com/gnometurk
-      - title: mastodon
-        url: https://floss.social/@gnometurk
       - title: anlık iletişim kanalları
         url: anlik-iletisim-kanallari.html
+      - title: mastodon
+        url: https://floss.social/@gnometurk
+      - title: x (twitter)
+        url: https://x.com/gnometurk
         
   - title: menü
     url: false
