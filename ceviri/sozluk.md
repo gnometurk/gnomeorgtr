@@ -300,6 +300,10 @@ Portal: Kapı
 
 Possible: Olası
 
+Power: Güç
+
+Power saver/Power saving: Güç tutumu
+
 Protocol: İletişim kuralı
 
 Process: Süreç
@@ -309,8 +313,6 @@ Proprietary: Sahipli (Yazılım lisansı bağlamında)
 Preview: Ön izleme
 
 Provide: Sağlamak
-
-Power: Güç
 
 ---
 
