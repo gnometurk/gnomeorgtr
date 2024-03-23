@@ -278,6 +278,8 @@ Password: Parola
 
 Pause: Duraklat
 
+Path: Yol
+
 Performance: Başarım
 
 Prefer: Yeğle
@@ -343,6 +345,10 @@ Refresh: Yenile
 Repeat: Yinele
 
 Rotate: Döndür
+
+Route: Rota (Path çevirisiyle karışmasın diye Yol yeğlemiyoruz)
+
+Router: Yönlendirici
 
 ---
 
