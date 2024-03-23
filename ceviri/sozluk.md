@@ -44,7 +44,7 @@ Authorize: Yetkilendir
 
 **B**
 
-Background: Arka plan (“Artalan” yeğlemiyoruz)
+Background: Arka plan (“Art alan” yeğlemiyoruz)
 
 Backend: Arka uç
 
