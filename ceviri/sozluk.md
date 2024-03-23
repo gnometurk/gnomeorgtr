@@ -60,6 +60,8 @@ Browse: Göz at
 
 Buffer: Tampon (Arabellek çevirisini yeğlemiyoruz)
 
+Build: İnşa, İnşa et
+
 Bus: Veri yolu
 
 Button: Düğme
@@ -75,6 +77,8 @@ Chunk: Öbek
 Checksum: Sağlama toplamı
 
 Clear: Temizle
+
+Compile: Derle
 
 Confirm: Onayla
 
@@ -174,7 +178,7 @@ Gateway: Geçit
 
 Guest: Konuk
 
-Group: Grup/Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
+Group: Grup, Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
 
 ---
 
@@ -410,7 +414,7 @@ Upgrade: Yükselt, Yükseltme
 
 **V**
 
-Volume: Ses, Birim, Bölüm (Bağlama göre kullanımı değişebilir.)
+Volume: Ses, Birim, Bölüm (Bağlama göre kullanımı değişebilir)
 
 Version: Sürüm
 
