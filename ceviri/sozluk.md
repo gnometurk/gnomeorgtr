@@ -362,7 +362,7 @@ Sensor: Algılayıcı
 
 Service: Hizmet
 
-Set: Takım
+Set: Belirle, ayarla, takım (bağlama göre)
 
 Socket: Yuva
 
@@ -386,19 +386,23 @@ Suspend: Askıya al
 
 **T**
 
+Test: Sına, sınama
+
 Threat: Tehdit
 
 Time zone: Saat dilimi
 
 Token: Jeton
 
-Tool set: Takım
+Tool set: Araç takımı
 
-Tools: Araçlar
+Tool: Araç
 
 Transfer: Aktarım
 
 Transparent: Saydam
+
+Try: Dene
 
 ---
 
