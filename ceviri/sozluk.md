@@ -44,7 +44,7 @@ Authorize: Yetkilendir
 
 **B**
 
-Background: Arka plan (Artalan yeğlemiyoruz)
+Background: Arka plan (“Artalan” yeğlemiyoruz)
 
 Backend: Arka uç
 
@@ -58,7 +58,7 @@ Broadband: Geniş bant
 
 Browse: Göz at
 
-Buffer: Tampon (Arabellek çevirisini yeğlemiyoruz)
+Buffer: Tampon (“Arabellek” çevirisini yeğlemiyoruz)
 
 Build: İnşa, İnşa et
 
@@ -70,7 +70,7 @@ Button: Düğme
 
 **C**
 
-Cancel: İptal (düğmelerdeki taşmaları önlemek için “İptal Et” değil, hızlandırıcı p harfine atanmalı)
+Cancel: İptal (düğmelerdeki taşmaları önlemek için “İptal et” değil, hızlandırıcı “p” harfine atanmalı)
 
 Chunk: Öbek
 
@@ -90,7 +90,7 @@ Create: Oluştur
 
 Credentials: Kimlik bilgileri
 
-Current: Geçerli (yerine göre “şu anki” ya da “şimdiki”)
+Current: Geçerli (yerine göre “Şu anki” ya da “Şimdiki”)
 
 ---
 
@@ -150,7 +150,7 @@ Expunge: Temizle
 
 Exist: Var
 
-Existing: Var olan (ayrık yazılmalı)
+Existing: Var olan (Ayrık yazılmalı)
 
 ---
 
@@ -164,7 +164,7 @@ Flip: Çevir
 
 Folder: Klasör
 
-Foreground: Ön plan (Önalan yeğlemiyoruz)
+Foreground: Ön plan (“Ön alan” yeğlemiyoruz)
 
 Frontend: Ön uç
 
@@ -230,11 +230,9 @@ Keep: Sakla
 
 Local: Yerel
 
-Login: Gir, Giriş, Oturum aç
+Login/Log in: Gir, Giriş, Oturum aç
 
-Log in: Gir, Giriş, Oturum aç
-
-Log out: Çık, Çıkış, Oturumu kapat
+Logout/Log out: Çık, Çıkış, Oturumu kapat
 
 Lost: Yitmek
 
@@ -350,7 +348,7 @@ Repeat: Yinele
 
 Rotate: Döndür
 
-Route: Rota (Path çevirisiyle karışmasın diye Yol yeğlemiyoruz)
+Route: Rota (“Path” çevirisiyle karışmasın diye “Yol” yeğlemiyoruz)
 
 Router: Yönlendirici
 
@@ -362,7 +360,7 @@ Sensor: Algılayıcı
 
 Service: Hizmet
 
-Set: Belirle, ayarla, takım (bağlama göre)
+Set: Belirle, Ayarla, Takım (Bağlama göre kullanımı değişebilir)
 
 Socket: Yuva
 
@@ -386,7 +384,7 @@ Suspend: Askıya al
 
 **T**
 
-Test: Sına, sınama
+Test: Sına, Sınama
 
 Threat: Tehdit
 
@@ -456,11 +454,11 @@ Widget: Parçacık
 
 **Bekleyen Öneriler**
 
-Allocate: Ayırmak, ayırtmak
+Allocate: Ayırmak, Ayırtmak
 
-Challenge: Sınama, karşı çıkma, sorgulama
+Challenge: Sınama, Karşı çıkma, Sorgulama
 
-Heap: İstif (Yığın ya da öbek değil, bu ikisini zaten kullanıyoruz)
+Heap: İstif (“Yığın” ya da “Öbek” değil, bu ikisini zaten kullanıyoruz)
 
 [] = Square Brackets: Köşeli Ayraçlar ya da Köşeli Parantez
 
