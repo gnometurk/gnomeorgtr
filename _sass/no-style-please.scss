@@ -1,25 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 
-// -------------- THEME SWITCHER -------------- //
-// @mixin dark-appearance {
-//   filter: invert(1);
-//   img {
-//     filter: invert(1);
-//     &.ioda { filter: invert(0); }
-//   }
-// }
-//
-// body[a="dark"] { @include dark-appearance; }
-//
-//
-// @media (prefers-color-scheme: dark) {
-//  body[a="auto"] { @include dark-appearance; }
-// }
-// -------------------------------------------- //
-
-// bg color is also needed in html in order to
-// block body's background propagation
-// see: https://stackoverflow.com/a/61265706
 html, body { background: black; }
 
 html { height: 100%; }
@@ -43,6 +23,8 @@ hr { margin: 2rem 0; }
 p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
+
+a { color: orange; }
 
 *:target { background: yellow; }
 
@@ -90,7 +72,5 @@ blockquote {
 
 img {
   max-width: 100%;
-  // küçük resimleri alt alta dizdiği için kapatıldı
-  // display: block;
   margin: 0 auto;
 }
