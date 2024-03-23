@@ -13,7 +13,7 @@ favicon: "logo.png"
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto"
+  #appearance: "dark"
   back_home_text: "GNOME Türkiye"
   date_format: "%Y-%m-%d"
   show_description: false
