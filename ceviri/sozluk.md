@@ -282,6 +282,8 @@ Pause: Duraklat
 
 Path: Yol
 
+Pattern: Örüntü (Grafik uygulamalarında “Desen” olarak da çevrilebilir)
+
 Performance: Başarım
 
 Prefer: Yeğle
