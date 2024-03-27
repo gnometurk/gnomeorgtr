@@ -26,7 +26,9 @@ Gelin yenilikleri birlikte keşfedelim!
 
 ## Etkinlikler Göstergesi
 
-<video class="wp-video-shortcode" controls="controls" height="142" id="video-556-1" preload="metadata" width="100%"><source src="/media/2023/09/activities-loop.webm?_=1" type="video/webm"></source></media/2023/09/activities-loop.webm></video>
+<video class="wp-video-shortcode" controls="controls" height="142" id="video-556-1" preload="metadata" width="100%">
+    <source src="/media/2023/09/activities-loop.webm?_=1" type="video/webm"></source>
+</video>
 
 GNOME 45’teki en dikkat çekici değişikliklerden biri yeni etkinlikler göstergesidir. Üst çubuğun sol köşesinde yer alan bu düğme daha önce “Etkinlikler” olarak etiketlenmişti. GNOME 45’te bu sabit yazının yerini dinamik çalışma alanı göstergesi aldı.
 
@@ -54,18 +56,16 @@ GNOME 45, yeni sistem özellikleri ve iyileştirmeleri de içeriyor. Söz konusu
 - **Verimli video oynatma**: Mümkünse, GNOME artık video oynatırken donanım kaynaklarını kullanacak. Bu daha hızlıdır ve daha az güç tüketir.
 - **Hızlı ayarlar için yeni klavye kısayolu**: Super+S kısayolu ile hızlı ayarlar menüsünü artık açıp kapatabilirsiniz.
 - **Güncellenmiş işaretçi görselleri**: GNOME’un işaretçileri (imleçler olarak da bilinir) GNOME 45 ile harika yeni bir görünüm kazandı.
-- **Açık sistem biçemi**: GNOME, öntanımlı koyu görünümün aksine sisteme açık görünüm kazandırmak için yeni bir seçenek sunuyor. Bu seçenek, ([**Light Theme uzantı**](https://extensions.gnome.org/extension/6198/light-style/)) kullanılarak ya da komut satırından aşağıdaki komut ile etkinleştirilebilir: ```
-    gsettings set org.gnome.desktop.interface color-scheme prefer-light
-    ```
-    
-    . Gelecek sürümler için daha fazla tümleştirme seçeneği araştırılmaktadır.
+- **Açık sistem biçemi**: GNOME, öntanımlı koyu görünümün aksine sisteme açık görünüm kazandırmak için yeni bir seçenek sunuyor. Bu seçenek, ([**Light Theme uzantı**](https://extensions.gnome.org/extension/6198/light-style/)) kullanılarak ya da komut satırından ```gsettings set org.gnome.desktop.interface color-scheme prefer-light``` komutu ile etkinleştirilebilir. Gelecek sürümler için daha fazla tümleştirme seçeneği araştırılmaktadır.
 - **Yeni duvar kağıtları**: GNOME’un arka plan koleksiyonuna iki yeni güzel resim eklendi.
 - [**Input Leap**](https://github.com/input-leap/input-leap) için Wayland desteği: Bu, birden fazla bilgisayarın tek bir klavye ve fareyle denetlenmesine izin veren KVM anahtarı benzeri işlevselliğin yazılım gerçeklemesini sağlar. GNOME 45, bu yazılımın modern Wayland oturumlarıyla kullanılabilmesine izin verir.
 - **Daha düzgün işaretçi hareketi**: Başarım iyileştirmeleri, bilgisayar meşgulken bile işaretçinin düzgün şekilde hareket etmesini sağlar.
 
 ## Yeni Resim Görüntüleyici
 
-<video class="wp-video-shortcode" controls="controls" height="450" id="video-556-2" preload="metadata" width="100%"><source src="/media/2023/09/loupe.webm?_=2" type="video/webm"></source></media/2023/09/loupe.webm></video>
+<video class="wp-video-shortcode" controls="controls" height="450" id="video-556-2" preload="metadata" width="100%">
+    <source src="/media/2023/09/loupe.webm?_=2" type="video/webm"></source>
+</video>
 
 GNOME 45, yeni bir öntanımlı resim görüntüleme uygulaması sunuyor. Hızı ve yalınlığı ile öne çıkan Loupe, resimleri hızlıca görüntülemenin yeni yolunu sunuyor. Bir resimden diğerine geçiş de yakınlaştırma ve döndürme işlemlerindeki gibi akıcı ve kusursuzdur.
 
@@ -172,6 +172,6 @@ GNOME Projesi, kar amacı gütmeyen GNOME Vakfı tarafından desteklenen uluslar
 
 - - - - - -
 
-**Not: [GNOME Sürüm duyurusundan](https://release.gnome.org/45/), Berk Elyesa Yıldırım ve Sabri Ünal tarafından çevrilmiştir. Kimi noktalara ek açıklamalar da eklenmiştir.**
+**Not:** _[GNOME 45 Sürüm duyurusundan](https://release.gnome.org/45/), Berk Elyesa Yıldırım ve Sabri Ünal tarafından çevrilmiştir. Kimi noktalara ek açıklamalar da eklenmiştir._
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="405" loading="lazy" src="https://www.youtube.com/embed/47aZgF6xmS0?feature=oembed" title="Introducing GNOME 45" width="100%"></iframe>
+<iframe width="100%" height="405" src="https://www.youtube-nocookie.com/embed/47aZgF6xmS0" title="Introducing GNOME 45" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
