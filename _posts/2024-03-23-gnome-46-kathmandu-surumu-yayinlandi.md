@@ -191,7 +191,7 @@ GNOME topluluğunun yeni üyelerine hoş geldiniz diyoruz!
 
 GNOME 46 kullanıcı arayüzü, GNOME çevirmenlerinin üstün gayretleri ve süregiden emeklerinin bir meyvesi olarak %100 olarak Türkçe yayınlanmıştır. Belgelendirme çevirilerinin oranı %32’ye düşmüştür.
 
-Çeviride karşılaştığınız hataları GNOME Türkiye Telegram kanalından bildirmekten çekinmeyin.
+Çeviride karşılaştığınız hataları [anlık iletişim kanallarını](/anlik-iletisim-kanallari.html) kullanarak bildirmekten çekinmeyin.
 
 ## GNOME 46’yı Edinmek
 
