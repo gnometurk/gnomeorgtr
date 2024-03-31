@@ -23,7 +23,7 @@ Gelin GNOME 46 yeniliklerini birlikte keşfedelim!
 
 ## Her Yerde Ara
 
-Dosyalar, GNOME 46ʼda yeni **yeni genel arama özelliği** ile geliyor. Özellik oldukça basittir: yeni arama düğmesine tıklayarak ya da <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd> kısayolunu kullanarak etkinleştirin, ardından sorgunuzu girerek yapılandırılmış tüm arama konumlarında arayın.
+Dosyalar, GNOME 46ʼda yeni **genel arama özelliği** ile geliyor. Özellik oldukça basittir: yeni arama düğmesine tıklayarak ya da <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>F</kbd> kısayolunu kullanarak etkinleştirin, ardından sorgunuzu girerek yapılandırılmış tüm arama konumlarında arayın.
 
 Genel arama, istediğiniz öğelerin nerede bulunduğunu düşünmeden doğrudan aramak için harika bir yoludur.
 Yeni özellik ayrıca GNOME'un dosya içeriğini arama ve dosya türü ve değişiklik tarihine göre süzme gibi var olan dosya arama özelliklerinden de yararlanıyor.
