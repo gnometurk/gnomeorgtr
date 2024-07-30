@@ -14,6 +14,8 @@ Abort: Vazgeç
 
 Add: Ekle
 
+Adaptive: Uyarlanır, uyarlanabilir
+
 Action: İşlem
 
 Active: Etkin
@@ -39,6 +41,8 @@ Authentication: Kimlik doğrulama
 Authorization: Yetkilendirme
 
 Authorize: Yetkilendir
+
+Available: Kullanılabilir (Olumsuzunda "kullanılabilir değil" yerine "yok" ya da "kullanılamıyor" yeğleniyor)
 
 ---
 
@@ -178,6 +182,8 @@ Gateway: Geçit
 
 Guest: Konuk
 
+Guideline: Kılavuz
+
 Group: Grup, Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
 
 ---
@@ -202,11 +208,17 @@ Ignore: Yok say
 
 Image: Görüntü, Resim
 
+Indicator: Gösterge, Belirteç
+
 Input: Girdi
 
 Install: Kur
 
+Instruction: Yönerge
+
 Integration: Tümleşim
+
+Integrated: Tümleşik
 
 Interface: Arayüz
 
@@ -306,6 +318,10 @@ Power: Güç
 
 Power saver/Power saving: Güç tutumu
 
+Predictable: Öngörülebilir
+
+Prediction: Öngörü
+
 Protocol: İletişim kuralı
 
 Process: Süreç
@@ -359,6 +375,8 @@ Router: Yönlendirici
 ---
 
 **S**
+
+Sandbox: Yalıtık alan (Söz öbeği içinde kısaca yalıtık uygulama, ortam vb)
 
 Sensor: Algılayıcı
 
