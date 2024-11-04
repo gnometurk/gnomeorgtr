@@ -14,7 +14,7 @@ Abort: Vazgeç
 
 Add: Ekle
 
-Adaptive: Uyarlanır, uyarlanabilir
+Adaptive: Uyarlanır
 
 Action: İşlem
 
@@ -42,7 +42,7 @@ Authorization: Yetkilendirme
 
 Authorize: Yetkilendir
 
-Available: Kullanılabilir (Olumsuzunda "kullanılabilir değil" yerine "yok" ya da "kullanılamıyor" yeğleniyor)
+Available: Kullanılabilir (Yerine göre “Uygun” yeğlenebilir. Olumsuzunda “Kullanılabilir değil” yerine “Yok” ya da “Kullanılamıyor” yeğleniyor.)
 
 ---
 
@@ -208,7 +208,7 @@ Ignore: Yok say
 
 Image: Görüntü, Resim
 
-Indicator: Gösterge, Belirteç
+Indicator: Gösterge
 
 Input: Girdi
 
@@ -376,7 +376,7 @@ Router: Yönlendirici
 
 **S**
 
-Sandbox: Yalıtık alan (Söz öbeği içinde kısaca yalıtık uygulama, ortam vb)
+Sandbox: Yalıtık alan (Söz öbeği içinde “Yalıtık uygulama”, “Yalıtık ortam” gibi kullanılabilir)
 
 Sensor: Algılayıcı
 
