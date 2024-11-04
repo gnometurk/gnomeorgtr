@@ -88,7 +88,7 @@ Yeni dosya iletişim kutuları ayrıca istek üzerine küçük resim oluşturma 
 
 ## Geliştirilmiş Dosyalar Uygulaması
 
-Dosyalar uygulaması GNOME 47'de önemli bir dizi iyileştirme ile geliyor.
+Dosyalar uygulaması GNOME 47’de önemli bir dizi iyileştirme ile geliyor.
 
 ### Geliştirilmiş Gezinme
 
@@ -131,7 +131,7 @@ Bu son sürüm, aynı zamanda birçok ayar bölmesinin en yeni arayüz bileşenl
 <picture class="full rounded">
     <source srcset="/media/2024/10/users-d-screenshot.webp" media="(prefers-color-scheme: dark)">
     <img src="/media/2024/10/users-l-screenshot.webp">
-</picture>.
+</picture>
 
 ## Geliştirilmiş Çevrim İçi Hesaplar
 
@@ -157,7 +157,7 @@ Sürüm 47, GNOME web tarayıcısı için heyecan verici bir sürüm ve birçok 
 
 **Gizlilik Raporları**: GNOME Web tarafından kaç izleyicinin engellendiğini gösteren yeni gizlilik raporu özelliği eklendi. Daha önce gizli olan bu bilgileri erişilebilir kılmak, çevrim içi gizliliğinizle ilgili bilgilenmenizi sağlıyor.
 
-Dikkat edilmesi gereken önemli bir nokta: Firefox hesap doğrulama sürecindeki değişiklikler nedeniyle Firefox Sync desteği 47. sürümün yanı sıra 46.3 ve 45.4 sürümlerinde devre dışı bırakıldı. Ne yazık ki Firefox Sync’in ne zaman geri döneceğine dair bir öngörü yok. Daha çok ayrıntı için [sorun raporuna] (https://gitlab.gnome.org/GNOME/epiphany/-/issues/2337) bakınız.
+Dikkat edilmesi gereken önemli bir nokta: Firefox hesap doğrulama sürecindeki değişiklikler nedeniyle Firefox Sync desteği 47. sürümün yanı sıra 46.3 ve 45.4 sürümlerinde devre dışı bırakıldı. Ne yazık ki Firefox Sync’in ne zaman geri döneceğine dair bir öngörü yok. Daha çok ayrıntı için [sorun raporuna](https://gitlab.gnome.org/GNOME/epiphany/-/issues/2337) bakınız.
 
 ## Takvim
 
