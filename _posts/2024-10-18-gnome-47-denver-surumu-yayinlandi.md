@@ -82,8 +82,8 @@ Yeni dosya iletişim kutularının bir avantajı da Dosyalar uygulamasıyla tuta
 Yeni dosya iletişim kutuları ayrıca istek üzerine küçük resim oluşturma ve daha hızlı ve daha kapsamlı arama özellikleriyle daha yetenekli.
 
 <picture class="full rounded">
-  <source srcset="media/2024/10/filedialog-d-screenshot.webp" media="(prefers-color-scheme: dark)">
-  <img src="media/2024/10/filedialog-l-screenshot.webp">
+  <source srcset="/media/2024/10/filedialog-d-screenshot.webp" media="(prefers-color-scheme: dark)">
+  <img src="/media/2024/10/filedialog-l-screenshot.webp">
 </picture>
 
 ## Geliştirilmiş Dosyalar Uygulaması
@@ -95,8 +95,8 @@ Dosyalar uygulaması GNOME 47'de önemli bir dizi iyileştirme ile geliyor.
 Dosyalar, GNOME 47’de birkaç önemli gezinme iyileştirmesi edindi. İlk olarak, yeni “Ağ” görünümü, bağlı olan, daha önce kullanılan ve kullanılabilir ağ konumları için bölümlere ayrılmış net bir liste ile uzak dosya konumlarına göz atmak için daha iyi yol sağlıyor. Bu görünümün anlaşılması ve kullanılması önceki “Diğer Konumlar” görünümüne göre daha kolay.
 
 <picture class="full rounded">
-    <source srcset="media/2024/10/nautilus-network-d-screenshot.webp" media="(prefers-color-scheme: dark)">
-    <img src="media/2024/10/nautilus-network-l-screenshot.webp">
+    <source srcset="/media/2024/10/nautilus-network-d-screenshot.webp" media="(prefers-color-scheme: dark)">
+    <img src="/media/2024/10/nautilus-network-l-screenshot.webp">
 </picture> 
 
 İkinci olarak, fiziksel yerleşik disklerin tümü artık kenar çubuğunda listelenerek diğer disklerle bir arada tutuluyor ve erişimi kolaylaştırılıyor.
@@ -122,15 +122,15 @@ Ayarlar uygulamasının son sürümü bir dizi yararlı ek içeriyor.
 **Mobil askıya alma seçenekleri**: Güç ayarlarında artık mobil aygıtlar için başka askıya alma süresi takımı sunuluyor. Bu geliştirme, eniyilenmiş güç yönetimine olanak tanıyarak pil ömrünü iyileştirmeyi sağlıyor.
 
 <picture class="full rounded">
-    <source srcset="media/2024/10/window-h-d-screenshot.webp" media="(prefers-color-scheme: dark)">
-    <img src="media/2024/10/window-h-l-screenshot.webp">
+    <source srcset="/media/2024/10/window-h-d-screenshot.webp" media="(prefers-color-scheme: dark)">
+    <img src="/media/2024/10/window-h-l-screenshot.webp">
 </picture> 
 
 Bu son sürüm, aynı zamanda birçok ayar bölmesinin en yeni arayüz bileşenlerini kullanacak biçimde iyileştirilmesiyle daha uyumlu ve çağdaş görünüm kazandıran harika bir çağdaşlaştırma derlemesi de içeriyor.
 
 <picture class="full rounded">
-    <source srcset="media/2024/10/users-d-screenshot.webp" media="(prefers-color-scheme: dark)">
-    <img src="media/2024/10/users-l-screenshot.webp">
+    <source srcset="/media/2024/10/users-d-screenshot.webp" media="(prefers-color-scheme: dark)">
+    <img src="/media/2024/10/users-l-screenshot.webp">
 </picture>.
 
 ## Geliştirilmiş Çevrim İçi Hesaplar
@@ -151,8 +151,8 @@ Sürüm 47, GNOME web tarayıcısı için heyecan verici bir sürüm ve birçok 
 **Yeniden Tasarlanan Yer İmleri:** Web, yer imlerinizde gezinmek ve arama yapmak için daha iyi deneyim sağlayan yeni ve şık yer imleri kenar çubuğuyla geliyor.
 
 <picture class="full rounded">
-    <source srcset="media/2024/10/bookmarks-d-screenshot.webp" media="(prefers-color-scheme: dark)">
-    <img src="media/2024/10/bookmarks-l-screenshot.webp">
+    <source srcset="/media/2024/10/bookmarks-d-screenshot.webp" media="(prefers-color-scheme: dark)">
+    <img src="/media/2024/10/bookmarks-l-screenshot.webp">
 </picture> 
 
 **Gizlilik Raporları**: GNOME Web tarafından kaç izleyicinin engellendiğini gösteren yeni gizlilik raporu özelliği eklendi. Daha önce gizli olan bu bilgileri erişilebilir kılmak, çevrim içi gizliliğinizle ilgili bilgilenmenizi sağlıyor.
