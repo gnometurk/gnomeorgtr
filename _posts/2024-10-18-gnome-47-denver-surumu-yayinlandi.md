@@ -174,12 +174,12 @@ Buna ek olarak, etkinlik içe aktarıcı ve etkinlik düzenleyici iletişim kutu
 
 [GNOME Çevre](https://circle.gnome.org/), GNOME projesinin özendirdiği ve desteklediği GNOME için bir grup fantastik uygulamadır. GNOME 46 yayınlandığından beri altı yeni uygulama aramıza katıldı:
 
-[![](/media/2024/10/io.github.fizzyizzy05.binary.svg)](https://apps.gnome.org/Binary/ Binary)
-[![](/media/2024/10/app.drey.Biblioteca.svg)](https://apps.gnome.org/Biblioteca/ Biblioteca)
-[![](/media/2024/10/io.github.finefindus.Hieroglyphic.svg)](https://apps.gnome.org/Hieroglyphic/ Hieroglyphic)
-[![](/media/2024/10/net.nokyan.Resources.svg)](https://apps.gnome.org/Resources/ Resources)
-[![](/media/2024/10/dev.geopjr.Tuba.svg)](https://apps.gnome.org/Tuba/ Tuba)
-[![](/media/2024/10/io.github.idevecore.Valuta.svg)](https://apps.gnome.org/Valuta/ Valuta)
+[![](/media/2024/10/io.github.fizzyizzy05.binary.svg)](https://apps.gnome.org/Binary/ "Binary")
+[![](/media/2024/10/app.drey.Biblioteca.svg)](https://apps.gnome.org/Biblioteca/ "Biblioteca")
+[![](/media/2024/10/io.github.finefindus.Hieroglyphic.svg)](https://apps.gnome.org/Hieroglyphic/ "Hieroglyphic")
+[![](/media/2024/10/net.nokyan.Resources.svg)](https://apps.gnome.org/Resources/ "Resources")
+[![](/media/2024/10/dev.geopjr.Tuba.svg)](https://apps.gnome.org/Tuba/ "Tuba")
+[![](/media/2024/10/io.github.idevecore.Valuta.svg)](https://apps.gnome.org/Valuta/ "Valuta")
 
 GNOME topluluğunun yeni üyelerine hoş geldiniz diyoruz!
 
