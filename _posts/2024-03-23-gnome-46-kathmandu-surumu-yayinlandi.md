@@ -177,13 +177,13 @@ GNOME 46'daki iyileştirmeler sadece yüzeyde değil, ve yeni sürüm daha başa
 
 [GNOME Çevre](https://circle.gnome.org/), GNOME projesinin teşvik ettiği ve desteklediği GNOME için bir grup fantastik uygulamadır. GNOME 45 yayınlandığından beri yedi yeni uygulama daha eklendi:
 
-[![](/media/2024/03/io.github.mrvladus.List.svg)](https://apps.gnome.org/List/ "Errands")
-[![](/media/2024/03/io.gitlab.gregorni.Letterpress.svg)](https://apps.gnome.org/Letterpress/ Letterpress)
-[![](/media/2024/03/io.gitlab.adhami3310.Converter.svg)](https://apps.gnome.org/Converter/ Switcheroo)
-[![](/media/2024/03/com.vixalien.decibels.svg)](https://apps.gnome.org/Decibels/ Decibels)
-[![](/media/2024/03/dev.bragefuglseth.Fretboard.svg)](https://apps.gnome.org/Fretboard/ Fretboard)
-[![](/media/2024/03/se.sjoerd.Graphs.svg)](https://apps.gnome.org/Graphs/ Graphs)
-[![](/media/2024/03/de.schmidhuberj.DieBahn.svg)](https://apps.gnome.org/DieBahn/ Railway)
+[![](/media/2024/03/io.github.mrvladus.List.svg)](https://apps.gnome.org/Errands/ "Errands")
+[![](/media/2024/03/io.gitlab.gregorni.Letterpress.svg)](https://apps.gnome.org/Letterpress/ "Letterpress")
+[![](/media/2024/03/io.gitlab.adhami3310.Converter.svg)](https://apps.gnome.org/Converter/ "Switcheroo")
+[![](/media/2024/03/com.vixalien.decibels.svg)](https://apps.gnome.org/Decibels/ "Decibels")
+[![](/media/2024/03/dev.bragefuglseth.Fretboard.svg)](https://apps.gnome.org/Fretboard/ "Fretboard")
+[![](/media/2024/03/se.sjoerd.Graphs.svg)](https://apps.gnome.org/Graphs/ "Graphs")
+[![](/media/2024/03/de.schmidhuberj.DieBahn.svg)](https://apps.gnome.org/DieBahn/ "Railway")
 
 GNOME topluluğunun yeni üyelerine hoş geldiniz diyoruz!
 
