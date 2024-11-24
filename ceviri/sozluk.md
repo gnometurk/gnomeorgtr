@@ -366,6 +366,8 @@ Refresh: Yenile
 
 Repeat: Yinele
 
+Revoke: Geçersiz kıl
+
 Rotate: Döndür
 
 Route: Rota (“Path” çevirisiyle karışmasın diye “Yol” yeğlemiyoruz)
