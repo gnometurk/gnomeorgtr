@@ -1,6 +1,6 @@
 ---
 title: 'GNOME 48 Yayınlandı'
-date: '2005-04-30T14:10:29+03:00'
+date: '2025-04-30T08:00:+03:00'
 author: 'GNOME Türkiye'
 layout: post
 permalink: /gnome-48-yayinlandi/
@@ -15,6 +15,6 @@ tags:
 
 ![GNOME 48](/media/2025/04/48.webp "GNOME 48")
 
-GNOME 48 sürümü yayınlandı. Bu sürüm pek çok iyileştirme ve geliştirme içeriyor.
+GNOME 48 “Bengaluru” sürümü yayınlandı. Bu sürüm pek çok iyileştirme ve geliştirme içeriyor.
 
-GNOME 48 sürüm notlarına <https://release.gnome.org/48/> sayfasından ulaşabilirsiniz.
+Sürüm notlarına <https://release.gnome.org/48/> sayfasından ulaşabilirsiniz.
