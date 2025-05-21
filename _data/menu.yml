@@ -50,10 +50,11 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: Arşivi gör...
+      show_more_text: arşivi gör...
       show_more_url: arsiv.html
 
   - title: rss
     url: feed.xml
+  - title: Türk dili, Türk milletinin kalbidir; zihnidir. (Mustafa Kemal Atatürk)
   - title: web site içerikleri başkası belirtilmediyse “CC BY-NC-ND 4.0 Deed” ile lisanslıdır.
     url: false
