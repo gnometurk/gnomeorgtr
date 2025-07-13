@@ -204,11 +204,15 @@ Hotspot: Erişim noktası
 
 Icon: Simge
 
+Idle: Boşta
+
 Ignore: Yok say
 
 Image: Görüntü, Resim
 
 Indicator: Gösterge
+
+Inhibit: Önle
 
 Input: Girdi
 
