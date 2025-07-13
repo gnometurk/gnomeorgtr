@@ -384,6 +384,8 @@ Router: Yönlendirici
 
 Sandbox: Yalıtık alan (Söz öbeği içinde “Yalıtık uygulama”, “Yalıtık ortam” gibi kullanılabilir)
 
+Secret: Giz
+
 Sensor: Algılayıcı
 
 Service: Hizmet
