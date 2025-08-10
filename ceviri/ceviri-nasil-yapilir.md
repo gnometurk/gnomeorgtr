@@ -61,7 +61,9 @@ Bu im genelde az rastlanılan ancak çeviri açısından önemli bir imdir.
 
 ## Çoğul biçimlerini tanıyalım
 
-Gettext 0.10.36 sürümüyle birlikte, birden çok çoğul durum içeren diller için “plural forms” eklenmiştir.
+Gettext 0.10.36 sürümüyle birlikte, birden çok çoğul durum içeren diller için “plural forms” eklenmiştir. 
+
+*Önemli not*: GNOME projesinde ve pek çok özgür yazılım çeviri projesinde tarihsel nedenlerden dolayı `nplurals=1; plural=0;` çoğul biçimi kullanılmaktadır. 
 
 Türkçede yalnızca bir adet çoğul durum olması, birden çok çoğul durum çevirisi yapmayı gerektirmez, ancak biçim tümlüğü için diğer çoğul durumlarında birinci ile aynı olması gerekir. Ancak bazen tekil durumda kod içerilmez. Bu durumda ayrı ayrı çeviriler belirtilmelidir. Benzer bir durum Türkçe için örnekteki gibidir.
 
