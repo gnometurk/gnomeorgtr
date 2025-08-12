@@ -63,7 +63,7 @@ Bu im genelde az rastlanılan ancak çeviri açısından önemli bir imdir.
 
 Gettext 0.10.36 sürümüyle birlikte, birden çok çoğul durum içeren diller için “plural forms” eklenmiştir. 
 
-GNOME ve pek çok özgür yazılım çeviri projesinde tarihsel nedenlerden dolayı `nplurals=1; plural=0;` çoğul biçimi kullanılmaktadır.
+GNOME ve pek çok özgür yazılım çeviri projesinde tarihsel nedenlerden dolayı “nplurals=1; plural=0;” çoğul biçimi kullanılmaktadır.
 
 Türkçede yalnızca bir adet çoğul durum olması, birden çok çoğul durum çevirisi yapmayı gerektirmez, ancak biçim tümlüğü için diğer çoğul durumlarında birinci ile aynı olması gerekir. Ancak bazen tekil durumda kod içerilmez. Bu durumda ayrı ayrı çeviriler belirtilmelidir. Benzer bir durum Türkçe için örnekteki gibidir.
 
@@ -103,7 +103,7 @@ Türkçedeki çoğul biçim PO dosya başlığı “**Plural-Forms: nplurals=1; 
 
 ## Çeviri için POT ya da PO dosyası edinmek
 
-Çeviri yapabilmek için öncelikle çevirilecek uygulamanın POT ya da PO dosyası elde edilmelidir. POT dosyası birçok yardımcı uygulama ile uygulamanın kaynak kodlarından edinilebinir. Ancak GNOME için önerilen yol [10n.gnome.org](https://l10n.gnome.org) adresinde yayın yapan GNOME Çeviri Platformu tarafından sağlanan POT ya da PO dosyalarını kullanmaktır.
+Çeviri yapabilmek için öncelikle çevirilecek uygulamanın POT ya da PO dosyası elde edilmelidir. POT dosyası birçok yardımcı uygulama ile uygulamanın kaynak kodlarından edinilebinir. Ancak GNOME için önerilen yol [l10n.gnome.org](https://l10n.gnome.org) adresinde yayın yapan GNOME Çeviri Platformu tarafından sağlanan POT ya da PO dosyalarını kullanmaktır.
 
 ### Uygulama kaynak kodlarından POT dosyası oluşturmak 
 
