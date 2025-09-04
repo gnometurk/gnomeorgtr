@@ -286,6 +286,8 @@ Only: Yalnızca
 
 Or: Ya da
 
+Outline: Ana Hat / Anahat
+
 Output: Çıktı
 
 ---
@@ -415,6 +417,8 @@ Suspend: Askıya al
 **T**
 
 Test: Sına, Sınama
+
+Texture: Desen
 
 Threat: Tehdit
 
