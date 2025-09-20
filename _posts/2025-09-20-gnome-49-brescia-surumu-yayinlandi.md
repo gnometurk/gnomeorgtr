@@ -17,4 +17,5 @@ tags:
 
 GNOME 49 “Brescia” sürümü yayınlandı. Bu sürüm pek çok iyileştirme ve geliştirme içeriyor.
 
+
 Sürüm notlarına <https://release.gnome.org/49/> sayfasından ulaşabilirsiniz.
