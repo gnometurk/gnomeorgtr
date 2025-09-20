@@ -192,6 +192,8 @@ Group: Grup, Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
 
 Hash: Özet
 
+Header: Başlık
+
 Hibernate: Hazırda beklet
 
 Host: Ana makine
@@ -285,6 +287,8 @@ Online: Çevrim içi
 Only: Yalnızca
 
 Or: Ya da
+
+Outline: Ana hat
 
 Output: Çıktı
 
