@@ -1,6 +1,6 @@
 ---
 title: 'GNOME 49, “Brescia” Sürümü Yayınlandı'
-date: '2025-09-20T08:00:+03:00'
+date: '2025-09-20T00:00:+03:00'
 author: 'GNOME Türkiye'
 layout: post
 permalink: /gnome-49-brescia-surumu-yayinlandi/
@@ -19,3 +19,4 @@ GNOME 49 “Brescia” sürümü yayınlandı. Bu sürüm pek çok iyileştirme 
 
 
 Sürüm notlarına <https://release.gnome.org/49/> sayfasından ulaşabilirsiniz.
+
