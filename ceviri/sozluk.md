@@ -288,7 +288,7 @@ Only: Yalnızca
 
 Or: Ya da
 
-Outline: Anahat
+Outline: Ana hat
 
 Output: Çıktı
 
