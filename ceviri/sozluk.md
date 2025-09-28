@@ -140,21 +140,23 @@ Dump: Döküm
 
 **E**
 
-Encryption: Şifreleme
+Enable: Etkinleştir
 
 Encrypt: Şifrele
 
-Enable: Etkinleştir
+Encryption: Şifreleme
+
+Entry: Giriş (Girdi çevirisini Input için kullanıyouz)
 
 Event: Olay
-
-Extension: Uzantı
-
-Expunge: Temizle
 
 Exist: Var
 
 Existing: Var olan (Ayrık yazılmalı)
+
+Expunge: Temizle
+
+Extension: Uzantı
 
 ---
 
@@ -376,6 +378,8 @@ Repeat: Yinele
 
 Revoke: Geçersiz kıl
 
+Ripple: Dalgacık
+
 Rotate: Döndür
 
 Route: Rota (“Path” çevirisiyle karışmasın diye “Yol” yeğlemiyoruz)
@@ -419,6 +423,8 @@ Suspend: Askıya al
 **T**
 
 Test: Sına, Sınama
+
+Texture: Desen
 
 Threat: Tehdit
 
@@ -487,6 +493,8 @@ Widget: Parçacık
 ---
 
 **Bekleyen Öneriler**
+
+Wavelet: Wavelet (Dalgacık çevirisini Ripple için kullandığımızdan şimdilik İngilizce haliyle kullanıyoruz)
 
 Allocate: Ayırmak, Ayırtmak
 
