@@ -140,21 +140,23 @@ Dump: Döküm
 
 **E**
 
-Encryption: Şifreleme
+Enable: Etkinleştir
 
 Encrypt: Şifrele
 
-Enable: Etkinleştir
+Encryption: Şifreleme
+
+Entry: Giriş (Girdi çevirisini Input için kullanıyouz)
 
 Event: Olay
-
-Extension: Uzantı
-
-Expunge: Temizle
 
 Exist: Var
 
 Existing: Var olan (Ayrık yazılmalı)
+
+Expunge: Temizle
+
+Extension: Uzantı
 
 ---
 
