@@ -12,15 +12,15 @@ Bu belgede, GNOME’da kullanılan İngilizce sözcüklerin yaygın ya da yeğle
 
 Abort: Vazgeç
 
-Add: Ekle
-
-Adaptive: Uyarlanır
-
 Action: İşlem
+
+Activate: Etkinleştir
 
 Active: Etkin
 
-Activate: Etkinleştir
+Adaptive: Uyarlanır
+
+Add: Ekle
 
 Adjust: Uyarla
 
@@ -32,7 +32,7 @@ Allows: Sağlar (“İzin verir” olarak kullanılması gereken yerler olabilir
 
 Applet: Uygulamacık
 
-Automatic/Automatically: Kendiliğinden
+Around: Çevre
 
 Attribute: Öznitelik
 
@@ -42,15 +42,17 @@ Authorization: Yetkilendirme
 
 Authorize: Yetkilendir
 
+Automatic/Automatically: Kendiliğinden
+
 Available: Kullanılabilir (Yerine göre “Uygun” yeğlenebilir. Olumsuzunda “Kullanılabilir değil” yerine “Yok” ya da “Kullanılamıyor” yeğleniyor.)
 
 ---
 
 **B**
 
-Background: Arka plan (“Art alan” yeğlemiyoruz)
-
 Backend: Arka uç
+
+Background: Arka plan (“Art alan” yeğlemiyoruz)
 
 Battery: Pil
 
@@ -76,9 +78,9 @@ Button: Düğme
 
 Cancel: İptal (düğmelerdeki taşmaları önlemek için “İptal et” değil, hızlandırıcı “p” harfine atanmalı)
 
-Chunk: Öbek
-
 Checksum: Sağlama toplamı
+
+Chunk: Öbek
 
 Clear: Temizle
 
@@ -87,6 +89,8 @@ Compile: Derle
 Confirm: Onayla
 
 Continue: Sürdür
+
+Control: Denetim
 
 Convert: Dönüştür
 
@@ -110,21 +114,21 @@ Default: Öntanımlı
 
 Delete: Sil
 
-Device: Aygıt
-
 Detail: Ayrıntı
 
 Detect: Sapta (yerine göre “Algıla”)
 
 Detector: Saptayıcı
 
+Device: Aygıt
+
 Different: Başka
 
 Dim: Işığını azalt (“Karart” değil, “Blank” ile çakışıyor)
 
-Directory: Dizin
-
 Direct: Doğrudan
+
+Directory: Dizin
 
 Disable: Devre dışı bırak
 
@@ -140,13 +144,15 @@ Dump: Döküm
 
 **E**
 
+Effect: Etki
+
 Enable: Etkinleştir
 
 Encrypt: Şifrele
 
 Encryption: Şifreleme
 
-Entry: Giriş (Girdi çevirisini Input için kullanıyouz)
+Entry: Giriş
 
 Event: Olay
 
@@ -163,6 +169,8 @@ Extension: Uzantı
 **F**
 
 Failed to …: “xxx başarısız oldu” yerine “yüklenemedi, kurulamadı...” olarak kullanıyoruz.
+
+Filter: Süz, Süzgeç
 
 Firewall: Güvenlik duvarı
 
@@ -182,11 +190,11 @@ Function: İşlev
 
 Gateway: Geçit
 
+Group: Grup, Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
+
 Guest: Konuk
 
 Guideline: Kılavuz
-
-Group: Grup, Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
 
 ---
 
@@ -201,6 +209,8 @@ Hibernate: Hazırda beklet
 Host: Ana makine
 
 Hotspot: Erişim noktası
+
+How: Ne denli
 
 ---
 
@@ -224,9 +234,9 @@ Install: Kur
 
 Instruction: Yönerge
 
-Integration: Tümleşim
-
 Integrated: Tümleşik
+
+Integration: Tümleşim
 
 Interface: Arayüz
 
@@ -247,6 +257,8 @@ Keep: Sakla
 ---
 
 **L**
+
+Limit: Sınır, Kısıt
 
 Local: Yerel
 
@@ -300,15 +312,13 @@ Output: Çıktı
 
 Password: Parola
 
-Pause: Duraklat
-
 Path: Yol
 
 Pattern: Örüntü (Grafik uygulamalarında “Desen” olarak da çevrilebilir)
 
-Performance: Başarım
+Pause: Duraklat
 
-Prefer: Yeğle
+Performance: Başarım
 
 Photograph: Fotoğraf
 
@@ -324,21 +334,23 @@ Portal: Kapı
 
 Possible: Olası
 
-Power: Güç
-
 Power saver/Power saving: Güç tutumu
+
+Power: Güç
 
 Predictable: Öngörülebilir
 
 Prediction: Öngörü
 
-Protocol: İletişim kuralı
+Prefer: Yeğle
+
+Preview: Ön izleme
 
 Process: Süreç
 
 Proprietary: Sahipli (Yazılım lisansı bağlamında)
 
-Preview: Ön izleme
+Protocol: İletişim kuralı
 
 Provide: Sağlamak
 
@@ -352,29 +364,31 @@ Quit: Çık
 
 **R**
 
-Remove: Kaldır
+Reason: Neden
 
-Requirement: Gereksinim
+Recursive: Özyineli
 
-Resume: Sürdür
+Refresh: Yenile
 
 Remember: Anımsa
 
 Reminder: Anımsatıcı
 
-Restore: Geri yükle
+Remove: Kaldır
 
-Reason: Neden
-
-Response: Yanıt
+Repeat: Yinele
 
 Reply: Yanıt
 
 Request: İstek
 
-Refresh: Yenile
+Requirement: Gereksinim
 
-Repeat: Yinele
+Response: Yanıt
+
+Restore: Geri yükle
+
+Resume: Sürdür
 
 Revoke: Geçersiz kıl
 
@@ -414,9 +428,9 @@ Stream: Akış, Akıt
 
 String: Dizge
 
-Syntax: Söz dizimi
-
 Suspend: Askıya al
+
+Syntax: Söz dizimi
 
 ---
 
@@ -428,13 +442,15 @@ Texture: Desen
 
 Threat: Tehdit
 
+Threshold: Eşik
+
 Time zone: Saat dilimi
 
 Token: Jeton
 
-Tool set: Araç takımı
-
 Tool: Araç
+
+Tool set: Araç takımı
 
 Transfer: Aktarım
 
@@ -446,21 +462,23 @@ Try: Dene
 
 **U**
 
-Utility: Araç
+Until: Dek
 
 Update: Güncelle, Güncelleme
 
 Upgrade: Yükselt, Yükseltme
 
+Utility: Araç
+
 ---
 
 **V**
 
-Volume: Ses, Birim, Bölüm (Bağlama göre kullanımı değişebilir)
+Verify: Doğrula
 
 Version: Sürüm
 
-Verify: Doğrula
+Volume: Ses, Birim, Bölüm (Bağlama göre kullanımı değişebilir)
 
 ---
 
@@ -468,11 +486,11 @@ Verify: Doğrula
 
 Wi-Fi: Kablosuz bağlantı
 
-Wireless: Kablosuz
+Widget: Parçacık
 
 Wired: Kablolu
 
-Widget: Parçacık
+Wireless: Kablosuz
 
 ---
 
@@ -494,13 +512,13 @@ Widget: Parçacık
 
 **Bekleyen Öneriler**
 
-Wavelet: Wavelet (Dalgacık çevirisini Ripple için kullandığımızdan şimdilik İngilizce haliyle kullanıyoruz)
-
 Allocate: Ayırmak, Ayırtmak
 
 Challenge: Sınama, Karşı çıkma, Sorgulama
 
 Heap: İstif (“Yığın” ya da “Öbek” değil, bu ikisini zaten kullanıyoruz)
+
+Wavelet: Wavelet (“Dalgacık” karşılığını “Ripple” için kullandığımızdan şimdilik İngilizcesini kullanıyoruz)
 
 [] = Square Brackets: Köşeli Ayraçlar ya da Köşeli Parantez
 
@@ -508,12 +526,12 @@ Heap: İstif (“Yığın” ya da “Öbek” değil, bu ikisini zaten kullanı
 
 <> = Angle Bracket: Açılı Ayraç ya da Açılı Parantez
 
-() = Round Brackets: Brackets ya da Parantez
+() = Round Brackets: Ayraç ya da Parantez
 
 ---
 
 #### Kullanılabilir Sözlükler*
-- [TSE Sözlük](https://web.archive.org/web/20180823201942/https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf)
-- [TBD Sözlük](https://eski.tbd.org.tr/index.php?sayfa=sozluk&mi1&tipi=entr&harf=A)
+- [TSE Bilişim Terimleri Sözlüğü](https://web.archive.org/web/20180823201942/https://statik.tse.org.tr/upload/tr/dosya/icerikyonetimi/552/19012016170409-4.pdf)
+- [TBD Bilişim Sözlüğü](https://bilisimde.ozenliturkce.org.tr/onerilen-tum-terimler-ingilizce-turkce/)
 
-Öncelikli olarak bizim sözlüğümüzden, sonrasında bu sözlüklerden yararlanabilirsiniz.
+Önceliklie bizim sözlüğümüzden, sonrasında bu sözlüklerden yararlanılabilir.
