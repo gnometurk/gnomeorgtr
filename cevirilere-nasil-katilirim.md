@@ -12,4 +12,6 @@ GNOME Türkçe çeviri çalışmalarına isteyen herkes katılabilir. Belirli bi
 
 Çevirlere nasıl katılabileceğiniz ile ilgili ayrıntılı bir açıklamayı “[Çeviri Deposu İş Akışı](/ceviri/ceviri-deposu-is-akisi)” belgesinden edinebilirsiniz.
 
+Çeviriler için kullandığımız programlara “[Çeviri Programları](/ceviri/ceviri-programlari/)” sayfasından ulaşabililir, yazım kurallarıyla ilgili “[Yazım Kuralları](/ceviri/yazim-kurallari/)” sayfasını inceleyebilir ve çeviri sözlüğümüze “[Sözlük](/ceviri/sozluk/)” sayfasından göz atabilirsiniz.
+
 GNOME Türkiye grubuna şimdiden hoş geldiniz!
