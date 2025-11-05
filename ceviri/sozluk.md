@@ -329,6 +329,8 @@ Photograph: Fotoğraf
 
 Picture: Resim
 
+Pin: İliştir
+
 Plug-in: Eklenti
 
 Policy: İlke
