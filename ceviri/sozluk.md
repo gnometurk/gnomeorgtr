@@ -190,11 +190,16 @@ Function: İşlev
 
 Gateway: Geçit
 
+Grid: Izgara
+
 Group: Grup, Grupla (Kimi yerlerde “Küme” yeğlenmiştir)
 
 Guest: Konuk
 
+Guide: Kılavuz
+
 Guideline: Kılavuz
+
 
 ---
 
