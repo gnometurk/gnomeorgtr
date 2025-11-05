@@ -351,6 +351,8 @@ Prefer: Yeğle
 
 Preview: Ön izleme
 
+Privilege: Ayrıcalık
+
 Process: Süreç
 
 Proprietary: Sahipli (Yazılım lisansı bağlamında)
@@ -398,6 +400,8 @@ Resume: Sürdür
 Revoke: Geçersiz kıl
 
 Ripple: Dalgacık
+
+Root: Kök
 
 Rotate: Döndür
 
