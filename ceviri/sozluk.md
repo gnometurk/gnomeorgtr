@@ -68,6 +68,8 @@ Buffer: Tampon (“Arabellek” çevirisini yeğlemiyoruz)
 
 Build: İnşa, İnşa et
 
+Built-in: Yerleşik
+
 Bus: Veri yolu
 
 Button: Düğme
