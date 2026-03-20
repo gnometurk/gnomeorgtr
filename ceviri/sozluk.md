@@ -88,6 +88,8 @@ Button: Düğme
 
 Cancel: İptal (düğmelerdeki taşmaları önlemek için “İptal et” değil, hızlandırıcı “p” harfine atanmalı)
 
+Captive portal: Oturum kapısı
+
 Careful: Özenli
 
 Checksum: Sağlama toplamı
@@ -442,6 +444,8 @@ Router: Yönlendirici
 **S**
 
 Sandbox: Yalıtık alan (Söz öbeği içinde “Yalıtık uygulama”, “Yalıtık ortam” gibi kullanılabilir)
+
+Scale: Ölçek
 
 Secret: Giz
 
