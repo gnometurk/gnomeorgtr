@@ -12,6 +12,8 @@ Bu belgede, GNOME’da kullanılan İngilizce sözcüklerin yaygın ya da yeğle
 
 Abort: Vazgeç
 
+Acquire: Edinmek
+
 Action: İşlem
 
 Activate: Etkinleştir
@@ -60,6 +62,10 @@ Blank: Karart (Ekran için)
 
 Boot: Önyükle
 
+Brace: Küme ayracı
+
+Bracket: Köşeli ayraç (Bağlamına göre kimi yerde yalnız “Ayraç” kullanılabilir)
+
 Broadband: Geniş bant
 
 Browse: Göz at
@@ -70,6 +76,8 @@ Build: İnşa, İnşa et
 
 Built-in: Yerleşik
 
+Bundle: Demet
+
 Bus: Veri yolu
 
 Button: Düğme
@@ -79,6 +87,8 @@ Button: Düğme
 **C**
 
 Cancel: İptal (düğmelerdeki taşmaları önlemek için “İptal et” değil, hızlandırıcı “p” harfine atanmalı)
+
+Careful: Özenli
 
 Checksum: Sağlama toplamı
 
@@ -108,6 +118,8 @@ Current: Geçerli (yerine göre “Şu anki” ya da “Şimdiki”)
 
 Daemon: Art alan hizmeti
 
+Danger: Sakınca
+
 Database: Veri tabanı
 
 Debug/Debugging: Hata ayıklama
@@ -116,6 +128,8 @@ Default: Öntanımlı
 
 Delete: Sil
 
+Deploy: Konuşlandır
+
 Detail: Ayrıntı
 
 Detect: Sapta (yerine göre “Algıla”)
@@ -123,6 +137,8 @@ Detect: Sapta (yerine göre “Algıla”)
 Detector: Saptayıcı
 
 Device: Aygıt
+
+Diagnostic: Tanılama
 
 Different: Başka
 
@@ -153,6 +169,8 @@ Enable: Etkinleştir
 Encrypt: Şifrele
 
 Encryption: Şifreleme
+
+End of life: Ömür sonu
 
 Entry: Giriş
 
@@ -231,6 +249,8 @@ Ignore: Yok say
 
 Image: Görüntü, Resim
 
+Index: Dizin, Dizinle
+
 Indicator: Gösterge
 
 Inhibit: Önle
@@ -244,6 +264,8 @@ Instruction: Yönerge
 Integrated: Tümleşik
 
 Integration: Tümleşim
+
+Integrity: Tümlük
 
 Interface: Arayüz
 
@@ -343,6 +365,8 @@ Portal: Kapı
 
 Possible: Olası
 
+Potential: Olası
+
 Power saver/Power saving: Güç tutumu
 
 Power: Güç
@@ -430,6 +454,10 @@ Set: Belirle, Ayarla, Takım (Bağlama göre kullanımı değişebilir)
 Socket: Yuva
 
 Stack: Yığın
+
+Stage: Evre
+
+Staging: Evreleme
 
 Stop: Durdur
 
@@ -533,13 +561,13 @@ Heap: İstif (“Yığın” ya da “Öbek” değil, bu ikisini zaten kullanı
 
 Wavelet: Wavelet (“Dalgacık” karşılığını “Ripple” için kullandığımızdan şimdilik İngilizcesini kullanıyoruz)
 
-[] = Square Brackets: Köşeli Ayraçlar ya da Köşeli Parantez
+[] = Square Bracket: Köşeli Ayraç
 
-{} = Curly Bracket: Küme Ayracı ya da Küme Parantez
+{} = Curly Bracket: Küme Ayracı
 
-<> = Angle Bracket: Açılı Ayraç ya da Açılı Parantez
+<> = Angle Bracket: Açılı Ayraç
 
-() = Round Brackets: Ayraç ya da Parantez
+() = Round Brackets: Ayraç
 
 ---
 
