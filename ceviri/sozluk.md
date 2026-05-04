@@ -513,6 +513,8 @@ Update: Güncelle, Güncelleme
 
 Upgrade: Yükselt, Yükseltme
 
+Upstream: Üst akım
+
 Utility: Araç
 
 ---
